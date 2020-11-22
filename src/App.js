@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import DrawScreen from './DrawScreen'
+import EpopChain from './EpopChain'
 
 function App() {
   return (
-    <DrawScreen />
+    <EpopChain />
   );
 }
 
